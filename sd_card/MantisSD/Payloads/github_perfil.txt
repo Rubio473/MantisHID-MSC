@@ -1,0 +1,6 @@
+REM GitHub de Rubio473
+DELAY 1000
+GUI r
+DELAY 500
+STRING https://github.com/Rubio473
+ENTER
