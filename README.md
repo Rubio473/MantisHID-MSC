@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="docs/logo_mantis.jpeg"
-       alt="Mantis Firmware"
-       width="100%">
+  <img
+    src="https://raw.githubusercontent.com/Rubio473/MantisHID-MSC/main/docs/images/logo_mantis.jpeg"
+    alt="MantisHID+MSC Firmware"
+    width="100%">
 </p>
+
 # MantisHID+MSC
 
 <p align="center">
